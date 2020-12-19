@@ -1,0 +1,9 @@
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\bin\Debug\netcoreapp3.1\HealthyFood.Application.deps.json
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\bin\Debug\netcoreapp3.1\HealthyFood.Application.dll
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\bin\Debug\netcoreapp3.1\HealthyFood.Application.pdb
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\obj\Debug\netcoreapp3.1\HealthyFood.Application.csprojAssemblyReference.cache
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\obj\Debug\netcoreapp3.1\HealthyFood.Application.AssemblyInfoInputs.cache
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\obj\Debug\netcoreapp3.1\HealthyFood.Application.AssemblyInfo.cs
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\obj\Debug\netcoreapp3.1\HealthyFood.Application.csproj.CoreCompileInputs.cache
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\obj\Debug\netcoreapp3.1\HealthyFood.Application.dll
+E:\Semester 7\Tiểu luận chuyên ngành HTTT\MyProject\HealthyFood\HealthyFood.Application\obj\Debug\netcoreapp3.1\HealthyFood.Application.pdb
